@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # for i in range(1,101):
 #     length = len(str(i))
 #     Temp = i
@@ -20,7 +20,8 @@ for a in range(1, 101):
         c = int(b[i])
         d = d + c ** (i + 1)
     if a == d:
-=======
+        print(a)
+
 # for i in range(1,101):
 #     length = len(str(i))
 #     Temp = i
@@ -42,5 +43,4 @@ for a in range(1, 101):
         c = int(b[i])
         d = d + c ** (i + 1)
     if a == d:
->>>>>>> 7139c4579c85c35b896b6146dcf0799b485ae836
         print(a)

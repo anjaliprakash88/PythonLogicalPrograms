@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def check(x):
     x = x.lower()
     vowel = set("aeiou")
@@ -17,7 +17,7 @@ def check(x):
 
 x = input("enter the string")
 check(x)
-=======
+
 def check(x):
     x = x.lower()
     vowel = set("aeiou")
@@ -35,4 +35,4 @@ def check(x):
 
 x = input("enter the string")
 check(x)
->>>>>>> 7139c4579c85c35b896b6146dcf0799b485ae836
+

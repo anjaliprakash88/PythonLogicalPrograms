@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Number = int(input("Enter the number to check Disarium number: "))
 # length = len(str(Number))
 # Temp = Number
@@ -27,7 +27,7 @@ if a == d:
     print("it is disarium number ")
 else:
     print("it is not disarium number")
-=======
+
 # Number = int(input("Enter the number to check Disarium number: "))
 # length = len(str(Number))
 # Temp = Number
@@ -55,4 +55,4 @@ if a == d:
     print("it is disarium number ")
 else:
     print("it is not disarium number")
->>>>>>> 7139c4579c85c35b896b6146dcf0799b485ae836
+
