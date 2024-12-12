@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 nums = [1, 2, 5, 7, 7, 8]
 res = []
 for i in range(len(nums)):
@@ -10,7 +10,7 @@ for i in range(len(nums)):
         res.append(nums[i])
 print(res)
 
-=======
+
 nums = [1, 2, 5, 7, 7, 8]
 res = []
 for i in range(len(nums)):
@@ -22,4 +22,5 @@ for i in range(len(nums)):
         res.append(nums[i])
 print(res)
 
->>>>>>> 7139c4579c85c35b896b6146dcf0799b485ae836
+
+
